@@ -7,9 +7,10 @@ excerpt:
 tags: []
 image:
   feature:
+author: prateek_nigam
 date: 2015-07-22T12:39:55-04:00
 ---
 
 ## Hello world!
 
-Not just a new domain and host, a stronger resolve to write more, more often.
+Not just with a new domain and hosting, but with a stronger resolve to write more, more often.
