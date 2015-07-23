@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title: To Err is binary
+title: To err is binary
 locale: en_US
 description: Unrefined thoughts and underdeveloped ideas.
 logo: site-logo.png
@@ -32,7 +32,7 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 # Site owner
 owner:
   name: Prateek Nigam
-  avatar: bio-photo.jpg
+  avatar: white.jpg
   email: prat[at]gmail[dot]com
   disqus-shortname:
   twitter: pranigam
