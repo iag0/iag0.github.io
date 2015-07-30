@@ -96,7 +96,7 @@ be pretty horrible if I would fail the submission after having written so much
 about it. Well, I passed, to my surprise and of many others.
 
 ### Happily ever after
-![image](images/combat2.jpg "BodyCombat: sky knee. Bespectacled beast and co.")
+![image](http://iag0.github.io/images/combat2.jpg "BodyCombat: sky knee. Bespectacled beast and co.")
 
 I am proud software engineer who moonlights at a gym as body combat instructor.
 What is the best part of it? As anyone in the service industry will swear by these
