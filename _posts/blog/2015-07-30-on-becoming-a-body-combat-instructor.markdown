@@ -50,25 +50,29 @@ signed up for it.
 ### Crazy idea!
 If you have seen me, I am the most unlikely candidate for becoming a gym
 instructor. I am just the average of the average of the Bangalore working class.
-I was the book that was going to be judged mostly by its cover. And if being questioned by
-the fitness fraternity was not enough, some friends were disheartened at my
-pursuit of lesser things. Now, I did not want to be an instructor, I just thought
-it would be really challenging to survive the bootcamp. And the rare cosmic alignment
-of planets that I did pass the assessment, there would be another video submission
-that would totally prevent me from becoming an instructor. There are not many things in my
-life that I have chosen for myself. Being an engineer was my destiny ( so says my dad.
-Pros and Cons in some other post). Education is not a choice either (
-a privilege rather  ). But if I think honestly, this was one thing no one
-wanted me to, no one needed me to do. Something that I could might as well just
-skip and forget about it. And turns out that just made me want to do it even more.
+In this domain, I  was the book that was going to be judged mostly by its cover. 
+And if being questioned by the fitness fraternity was not enough, some friends 
+were disheartened at my pursuit of lesser things. Now, I did not want to be an 
+instructor, I just thought it would be really challenging to survive the bootcamp. 
+And in the event of a rare cosmic alignment of planets leading to me passing assessment, 
+there would be another video submission that would totally prevent me from becoming
+an instructor. 
+There are not many things in my life that I have chosen for myself. 
+Being an engineer was my destiny ( so says my dad. Pros and Cons in some other 
+post ). Education is not a choice either ( a privilege rather  ). But if I think 
+honestly, this was one thing no one wanted me to, no one needed me to do. 
+Something that I might as well just skip and forget about it. 
+And turns out that just made me want to do it even more.
 
 ### BodyCombat bootcamp
-Surviving the bootcamp was going to be hard. The expectation is to cross over from
-the following aspect of the class to the leading aspect. Execution of movements
-needed to be correct, to be delivered with right cues with the music.But I was lucky 
-enough to pass the module. The happiness of it all and the swag in my walk would 
-last one whole week, after which I got a taste of actually presenting just 2 tracks. 
-That is 15 minutes of stage time and about 20% of the workout.
+Surviving the bootcamp was going to be hard. Two whole days filled with drilss,
+technique sessions, back to back practice; in short, it is physicall intense.
+On top of it all their expectation is to cross over from the following aspect of the
+class to the leading aspect. Execution of movements needed to be correctly delivered
+with right cues on the beat. But somehow I passed it. 
+The happiness of it all and the swag in my walk would last one whole week, after 
+which I got a taste of actually presenting just 2 tracks. That is 15 minutes of 
+stage time and about 20% of the workout.
 
 ### Shit gets real
 Loud music, club lights, shortness of breath and a little bit of nausea. That summarizes
