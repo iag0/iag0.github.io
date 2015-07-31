@@ -2,9 +2,9 @@
 layout: post
 title: "Fights at night"
 modified:
-categories:
-excerpt:
-tags: [ life, BodyCombat ]
+categories: blog
+excerpt: "How I became a body combat instructor and loved it"
+tags: [ BodyCombat, gym ]
 image:
   feature:
 date: 2015-07-30T16:56:25+05:30
