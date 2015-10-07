@@ -16,7 +16,7 @@ date: 2015-10-07T16:56:25+05:30
 
 "A fine balance" by Rohinton Mistry traces the jagged trajectory of two tailors who escape carnage in their village, a widow who employs them, and a paying guest. They all end up sharing the same flat, overcoming the initial barriers and turning into the unlikeliest of families of some sort. Only to have more hardships and misfortunes thrown at each one of them in the wake of politically tumultuous time that state imposed emergency was. The state of emergency emerges as the main antagonist which provides all agents of cruelty and chaos that alters the lives of not just the major characters but everyone in the book.
 
-Amidst travesty and hardships, the characters endlessly yearn for better days, choosing to live in future and the happiness they may stumble upon one day. Balancing between "hope and despair", they all meet disheartening ends of varying degrees.
+Amidst trouble and hardships, the characters endlessly yearn for better days, choosing to live in future and the happiness they may stumble upon one day. Balancing between "hope and despair", they all meet disheartening ends of varying degrees.
 
 >###"But it was an unrefrigerated world, and everything ended badly.."
 
