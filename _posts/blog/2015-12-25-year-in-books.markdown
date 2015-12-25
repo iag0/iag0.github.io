@@ -16,6 +16,7 @@ I read 22 books this year which was a personal best, just 2 shy of 2 books a mon
 I am going to aim a bit higher next year and read 30 books. Before I start picking out books for next year, let me break down 2015 in books by listing the top 10 books that I read this year.
 
 ![bookshelf 2015](http://iag0.github.io/images/yib1.png "bookshelf")
+
 <img src="http://iag0.github.io/images/yib2.png" width="272" height="170">
 
 ###10. [Flowers for Algernon: Daniel Keyes](http://www.goodreads.com/book/show/18373.Flowers_for_Algernon)
@@ -49,4 +50,3 @@ Utter confusion, mistaken identity often ensues hilarity. This is my first Wodeh
 
 ###1. [Cat's  cradle: Kurt Vonnegut](http://www.goodreads.com/book/show/135479.Cat_s_Cradle)
 Kurt Vonnegut is a writer in his own right. The book is about a journalist writing a piece on the team responsible for creating the hydrogen bomb and stumbles upon a deadly weapon that could put the world in peril. His quest to solve this mystery takes him to a carribean island with a strange religion. Vonnegut invents a Bokonomism, a new age religion with its own creation myth and the whole shbang. This book is worth reading multiple times. Its a funny and entertaining "thriller".
----
