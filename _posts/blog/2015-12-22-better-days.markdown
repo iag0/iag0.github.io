@@ -3,7 +3,7 @@ layout: post
 title: "Better days"
 modified:
 categories: blog
-excerpt:
+excerpt: " "
 tags: []
 image:
   feature:
